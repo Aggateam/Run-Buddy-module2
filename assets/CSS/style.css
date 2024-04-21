@@ -15,13 +15,8 @@ body {
   font-family: Helvetica, Arial, sans-serif;
 }
 
-<<<<<<< HEAD
-/* HEADER / NAV BAR STYLES START */
-=======
-
 /* HEADER / NAV BAR STYLES START */
 
->>>>>>> refs/remotes/origin/main
 header {
   padding: 20px 35px;
   background-color: var(--tertiary-color);
@@ -76,16 +71,11 @@ header nav ul li a:hover {
   border-radius: 15px;
   text-shadow: none;
 }
-
-<<<<<<< HEAD
-
-=======
 /* HEADER / NAVBAR STYLES END */
 
 
 
 /* FOOTER STYLES START */
->>>>>>> refs/remotes/origin/main
 footer {
   background: var(--primary-color);
   padding: 40px 35px;
